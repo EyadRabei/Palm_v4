@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Palm Gesture</string>
+    <!-- Replace with your deployed Palm website URL before building. -->
+    <string name="palm_url">https://github.com/EyadRabei/Palm_v4.git</string>
+</resources>
